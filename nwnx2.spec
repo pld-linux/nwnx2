@@ -17,7 +17,7 @@ NWNX adds extra functionality such as SQL database support, additional
 scripting functions, performance monitoring and many other features to
 the Neverwinter Nights game.
 
-%description -l pl
+%description -l pl.UTF-8
 NWNX dodaje dodatkową funkcjonalność (taką jak obsługę baz danych SQL,
 dodatkowe funkcje skryptowe, monitorowanie wydajności i wiele innych)
 do gry Neverwinter Nights.
