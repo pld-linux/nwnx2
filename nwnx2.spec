@@ -1,6 +1,6 @@
 %define 	org_name	linnwnx2
 Summary:	Neverwinter Nights Externder
-Summary(pl):	Neverwinter Nights Externder - pakiet rozszerzający Neverwinter Nights
+Summary(pl.UTF-8):	Neverwinter Nights Externder - pakiet rozszerzający Neverwinter Nights
 Name:		nwnx2
 Version:	2.5.3
 Release:	0.1
